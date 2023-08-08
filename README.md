@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Jogadores do Sport Club Internacional  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-## Available Scripts
+Bem-vindo, aqui você vai encontrar um projeto desenvolvido no curso de React da Alura, na qual realizei alterações para criar um site onde se encontra alguns jogadores do Internacional. O projeto está em contrução, bem como a falta de alguns jogadores e o funcionamento para filtrar por tags. Neste repositório, você encontrará as tecnologias de ponta que utilizamos para construir este site incrível.
 
-In the project directory, you can run:
 
-### `npm start`
+## Tecnologias Utilizadas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Nós nos esforçamos para trazer a melhor experiência aos nossos fãs e visitantes. Para isso, utilizamos as seguintes tecnologias de ponta na construção deste site:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **React**: Uma biblioteca JavaScript de código aberto que nos permite criar interfaces de usuário dinâmicas e de alto desempenho.
 
-### `npm test`
+- **Sass**: Uma extensão do CSS que nos ajuda a escrever estilos mais organizados e reutilizáveis, tornando a manutenção do código mais eficiente.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Como Contribuir
 
-### `npm run build`
+Nós valorizamos a contribuição da nossa comunidade de fãs e desenvolvedores. Se você deseja contribuir para a melhoria do nosso site, siga estas etapas:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. **Fork** este repositório para a sua própria conta.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. **Clone** o repositório para a sua máquina local.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone https://github.com/SEU_USUARIO/futclub-site.git
+```
 
-### `npm run eject`
+3. Crie uma nova branch para a sua contribuição.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+git checkout -b sua-feature
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Faça as alterações desejadas e **commit** as mudanças.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+git commit -m "Adicionar página de estatísticas dos jogadores"
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+5. **Push** suas alterações para o seu repositório remoto.
 
-## Learn More
+```bash
+git push origin sua-feature
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+6. Abra um **Pull Request** neste repositório original, descrevendo suas alterações em detalhes.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Estamos ansiosos para ver suas contribuições!
 
-### Code Splitting
+## Contato
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Se você tiver alguma dúvida, sugestão ou feedback, não hesite em nos contatar. Você pode encontrar nossas informações de contato em nosso site.
 
-### Analyzing the Bundle Size
+Agradecemos por ser um fã do FutClub! Juntos, fazemos a diferença nos campos e nas telas.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+*Este README foi criado com ❤️ usando [Markdown](https://www.markdownguide.org/).*
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Sport Club Internacional - O Clube do Povo!**

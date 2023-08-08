@@ -1,0 +1,60 @@
+
+[
+    {
+      "titulo": "Nome da Foto",
+      "creditos": "Internacional",
+      "imagem": "/assets/imagens/galeria/john.png",
+      "id": "1",
+      "tag": "Goleiros"
+    },
+    {
+      "titulo": "Nome da Foto",
+      "creditos": "Internacional",
+      "imagem": "/assets/imagens/galeria/luiz.png",
+      "id": "2",
+      "tag": "Atacantes"
+    },
+    {
+      "titulo": "Nome da Foto",
+      "creditos": "Internacional",
+      "imagem": "/assets/imagens/galeria/mauricio.png",
+      "id": "3",
+      "tag": "Meias"
+    },
+    {
+      "titulo": "Nome da Foto",
+      "creditos": "Internacional",
+      "imagem": "/assets/imagens/galeria/mercado.png",
+      "id": "4",
+      "tag": "Zagueiros"
+    },
+    {
+      "titulo": "Nome da Foto",
+      "creditos": "Internacional",
+      "imagem": "/assets/imagens/galeria/nico.png",
+      "id": "5",
+      "tag": "Zagueiros"
+    },
+    {
+      "titulo": "Nome da Foto",
+      "creditos": "Internacional",
+      "imagem": "/assets/imagens/galeria/pedro.png",
+      "id": "6",
+      "tag": "Atacantes"
+    },
+    {
+      "titulo": "Nome da Foto",
+      "creditos": "Internacional",
+      "imagem": "/assets/imagens/galeria/rene.png",
+      "id": "7",
+      "tag": "Laterais"
+    },
+    {
+      "titulo": "Nome da Foto",
+      "creditos": "Internacional",
+      "imagem": "/assets/imagens/galeria/valencia.png",
+      "id": "8",
+      "tag": "Atacantes"
+    }
+  ]
+  
