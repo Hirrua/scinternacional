@@ -7,15 +7,12 @@ Bem-vindo, aqui você vai encontrar um projeto desenvolvido no curso de React da
 
 ## Tecnologias Utilizadas
 
-Nós nos esforçamos para trazer a melhor experiência aos nossos fãs e visitantes. Para isso, utilizamos as seguintes tecnologias de ponta na construção deste site:
-
 - **React**: Uma biblioteca JavaScript de código aberto que nos permite criar interfaces de usuário dinâmicas e de alto desempenho.
 
 - **Sass**: Uma extensão do CSS que nos ajuda a escrever estilos mais organizados e reutilizáveis, tornando a manutenção do código mais eficiente.
 
 ## Como Contribuir
 
-Nós valorizamos a contribuição da nossa comunidade de fãs e desenvolvedores. Se você deseja contribuir para a melhoria do nosso site, siga estas etapas:
 
 1. **Fork** este repositório para a sua própria conta.
 
@@ -50,8 +47,6 @@ Estamos ansiosos para ver suas contribuições!
 ## Contato
 
 Se você tiver alguma dúvida, sugestão ou feedback, não hesite em nos contatar. Você pode encontrar nossas informações de contato em nosso site.
-
-Agradecemos por ser um fã do FutClub! Juntos, fazemos a diferença nos campos e nas telas.
 
 *Este README foi criado com ❤️ usando [Markdown](https://www.markdownguide.org/).*
 
